@@ -1,0 +1,15 @@
+{
+    "name": "com.github.volvis.Stateless.Tests",
+    "references": [
+        "GUID:1a040d05d7341c6499da557e20813282"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

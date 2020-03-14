@@ -1,0 +1,13 @@
+{
+  "name": "com.github.volvis.stateless",
+  "version": "4.4.0",
+  "displayName": "Stateless",
+  "description": "Fork of stateless",
+  "unity": "2019.1",
+  "keywords": [
+    "stateless",
+    "state machine",
+    "keyword3"
+  ],
+  "type": "library"
+}
